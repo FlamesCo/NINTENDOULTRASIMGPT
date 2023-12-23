@@ -1,0 +1,2 @@
+EmulAI is a supposed Nintendo 64 emulator that some people claim to have downloaded that reportedly can somehow simulate the Personalization A.I. in Super Mario 64. Many of the reports are rather vague and dubious, though there are enough to have a general idea of the emulator and how it works. Some stories say that the Personalization A.I. is automatically active in the emulator, wh ile others say that the Personalization A.I. is merely a plug-in.
+ this the version of emuai for CatGPT aka ChatGPT 1.0
